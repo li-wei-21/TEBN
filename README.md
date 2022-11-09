@@ -9,4 +9,5 @@ torch>=1.11.0+cu113
 numpy==1.21.5  
 # Usage
 To run a pre-trained model 'TEBN_VGG9.pth' on CIFAR-10, please run the following script:  
-python main.py -resume ./TEBN_VGG9.pth
+python main.py -resume ./TEBN_VGG9.pth  
+TEBN_VGG9.pth文件在releases里面
